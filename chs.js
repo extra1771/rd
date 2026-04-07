@@ -1790,7 +1790,7 @@ var cnItems = {
     "EXA": "EXA",
     "EXC": "处决",
     "ELC": "ELC",
-    "DDG": "伤害",
+    "DDG": "闪避几率",
     "CTR": "反击概率",
     "CRS": "CRS",
     "CRC": "暴击几率",
