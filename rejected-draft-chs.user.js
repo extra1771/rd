@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rejected Draft 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
-// @version      0.0.9
+// @version      0.0.10
 // @description  网页游戏 Rejected Draft (https://kuzzigames.com/rejected_draft/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Rejected Draft.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
@@ -1884,9 +1884,9 @@ var cnItems = {
     "Increases one sketch's rewards by +50% for the rest of this Redraw. Max Rarity and # Uses are based on your Archive skills.": "在本次重新绘制期间，可使一个草图的奖励提高 50%。最大稀有度和使用次数取决于您的档案技能。",
     "Norooto": "无姜根版",
     "Reward Booster": "奖励增强器",
-    "": "",
-    "": "",
-    "": "",
+    "Battles persisted at a throttled frequency for": "战斗的频率一直很低落地持续着。",
+    "It seems the Artist has found a silent ally in your hardware, attempting to slow the flow of time. While battle speed may have been slowed, rest assured it still continued at a throttled rate behind this window. More importantly, the sabotage was intercepted and rather than passively letting your generators and synthesizers produce at a throttled rate, the full potential of your absence was calculated and applied.": "似乎这位艺术家在你们的硬件中找到了一位默默的盟友，试图减缓时间的流逝。虽然战斗速度可能已经放缓，但请放心，它仍在这个窗口后以受限的速度继续进行。更重要的是，这次破坏行为被拦截了，而且并非只是被动地让你们的发电机和合成器以受限的速度运行，而是充分计算了你们缺席所带来的影响，并将其应用到了实际操作中。",
+    "Warning: Browser throttling detected": "警告：检测到浏览器速率限制",
     "": "",
     "": "",
     "": "",
